@@ -4,7 +4,7 @@ output: html_document
 ---
 ========================================================
 ## Instroduction
-In this project, we are going to investigate which chemcial properties influence
+In this project, we are going to investigate which chemcial properties impact the most
 the quality of red wines.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
